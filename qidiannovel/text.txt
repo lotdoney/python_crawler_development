@@ -1,0 +1,165 @@
+<link rel="stylesheet" data-ignore="true" href="//qidian.gtimg.com/c/=/qd/css/lbfUI/css/icon.a578d.css,/qd/css/lbfUI/css/Drag.41d31.css,/qd/css/reset.ddecf.css,/qd/css/global.d41d8.css,/qd/css/font.1727c.css,/qd/css/footer.68e1d.css,/qd/css/qd_popup.ed72c.css,/qd/css/book_popup.18f47.css,/qd/css/vote_popup.3844d.css,/qd/icon/forum/sprite.445f4.css,/qd/css/forum/emoji.c4e81.css" />
+        <div class="book-information cf" data-l1="2">
+
+    
+    <div class="book-img">
+        <a class="J-getJumpUrl" id="bookImg" href="//read.qidian.com/chapter/3Q25oaFkfCbmkXioLmMPXw2/izWkHSNwnZP6ItTi_ILQ7A2" data-eid="qd_G09" data-bid="1021131637" data-firstchapterjumpurl="//read.qidian.com/chapter/3Q25oaFkfCbmkXioLmMPXw2/izWkHSNwnZP6ItTi_ILQ7A2"><img src="//bookcover.yuewen.com/qdbimg/349573/1021131637/180
+"></a>
+    </div>
+    
+    <div class="book-info ">
+        <h1>
+            
+            <em>路易的奇幻冒险</em>
+            <span><a class="writer" href="//me.qidian.com/authorIndex.aspx?id=126181" target="_blank" data-eid="qd_G08">冥域天使</a> 著</span>
+            
+        </h1>
+        <p class="tag"><span class="blue">连载</span>
+            
+            <span class="blue">签约</span>
+            
+            
+                
+            <span class="blue">VIP</span>
+                
+            
+            <a href="//www.qidian.com/qihuan" class="red" target="_blank" data-eid="qd_G10">奇幻</a>
+            
+            <a href="//www.qidian.com/all?chanId=1&amp;subCateId=20093" class="red" target="_blank" data-eid="qd_G11">另类幻想</a>
+            
+            
+        </p>
+        
+        <p class="intro">魔兽践踏，巨龙咆哮，巫师诅咒，魔法璀璨之光照耀知识灯塔！</p>
+        <p><em><style>@font-face { font-family: OyIktFlO; src: url('https://qidian.gtimg.com/qd_anti_spider/OyIktFlO.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/OyIktFlO.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/OyIktFlO.ttf') format('truetype'); } .OyIktFlO { font-family: 'OyIktFlO' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class="OyIktFlO">&#100271;&#100268;&#100272;&#100273;&#100271;</span></em><cite>万字</cite><i>|</i>
+            <!-- <em>-1</em><cite>阅文总点击</cite><i>|</i>
+            <em><style>@font-face { font-family: OyIktFlO; src: url('https://qidian.gtimg.com/qd_anti_spider/OyIktFlO.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/OyIktFlO.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/OyIktFlO.ttf') format('truetype'); } .OyIktFlO { font-family: 'OyIktFlO' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class="OyIktFlO">&#100270;</span></em><cite>会员周点击</cite><i>|</i> -->
+            <em><style>@font-face { font-family: OyIktFlO; src: url('https://qidian.gtimg.com/qd_anti_spider/OyIktFlO.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/OyIktFlO.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/OyIktFlO.ttf') format('truetype'); } .OyIktFlO { font-family: 'OyIktFlO' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class="OyIktFlO">&#100267;&#100272;&#100268;&#100274;</span></em><cite>万总推荐</cite><i>|</i><em><style>@font-face { font-family: OyIktFlO; src: url('https://qidian.gtimg.com/qd_anti_spider/OyIktFlO.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/OyIktFlO.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/OyIktFlO.ttf') format('truetype'); } .OyIktFlO { font-family: 'OyIktFlO' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class="OyIktFlO">&#100274;&#100274;&#100268;&#100267;</span></em><cite>周推荐</cite></p>
+        
+        <p><a class="red-btn J-getJumpUrl " href="//read.qidian.com/chapter/3Q25oaFkfCbmkXioLmMPXw2/izWkHSNwnZP6ItTi_ILQ7A2" id="readBtn" data-eid="qd_G03" data-bid="1021131637" data-firstchapterjumpurl="//read.qidian.com/chapter/3Q25oaFkfCbmkXioLmMPXw2/izWkHSNwnZP6ItTi_ILQ7A2">免费试读</a><a class="blue-btn add-book" id="addBookBtn" href="javascript:" data-eid="qd_G05" data-bookId="1021131637" data-bid="1021131637">加入书架</a>
+            
+            <a class="blue-btn" id="topVoteBtn" href="javascript:" data-showtype="1" data-eid="qd_G06">投票互动</a>
+            
+            <a class="blue-btn" id="downloadAppBtn" href="https://www.yuewen.com/app.html#appqd" style="line-height: 26px;">手机App阅读</a>
+        </p>
+        
+    </div>
+    
+    <div class="comment-wrap">
+        <div id="commentWrap">
+            <div class="load-score">
+                <div class="la-ball-pulse">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+            <div class="j_getData hidden">
+                <h4 id="j_bookScore"><span><cite id="score1">0</cite><em>.</em></span><i id="score2">0</i></h4>
+                <p id="j_userCount"><span></span>人评价</p>
+            </div>
+        </div>
+        <!--
+        <h5>我要评价</h5>
+        <div class="score-mid" id="scoreBtn" data-score="" data-comment="0" data-eid="qd_G12">
+            
+            <img src="//qidian.gtimg.com/qd/images/book_details/star-off.b2a1b.png">
+            
+            <img src="//qidian.gtimg.com/qd/images/book_details/star-off.b2a1b.png">
+            
+            <img src="//qidian.gtimg.com/qd/images/book_details/star-off.b2a1b.png">
+            
+            <img src="//qidian.gtimg.com/qd/images/book_details/star-off.b2a1b.png">
+            
+            <img src="//qidian.gtimg.com/qd/images/book_details/star-off.b2a1b.png">
+            
+        </div>
+         -->
+    </div>
+    <div class="take-wrap">
+        
+        
+        
+            <a class="blue" id="subscribe" href="javascript:" data-eid="qd_G13"><em class="iconfont">&#xe636;</em>订阅</a>
+        
+        
+        
+    </a>
+    </div>
+    
+
+</div>
+                                                    <p>  伊森来到了一个满是海洋的世界。
+  一个人，一条船；还有一个能够穿梭万界的指针！
+<script data-ignore="true" id="LBFnode" src="//qidian.gtimg.com/lbf/1.1.0/LBF.js?max_age=31536000"></script>
+<script>
+    // LBF 配置
+    LBF.config({"paths":{"site":"//qidian.gtimg.com/qd/js","qd":"//qidian.gtimg.com/qd","common":"//qidian.gtimg.com/common/1.0.0"},"vars":{"theme":"//qidian.gtimg.com/qd/css"},"combo":true,"debug":false});
+    LBF.use(['lib.jQuery'], function ($) {
+        window.$ = $;
+    });
+</script>
+<script>
+    LBF.use(['monitor.SpeedReport', 'qd/js/component/login.a4de6.js', 'qd/js/book_details/index.c9048.js' ], function (SpeedReport, Login, Index) {
+        // 页面逻辑入口
+        if(Login){
+            Login.init().always(function(){
+                Index && typeof Index === 'function' && new Index();
+            })
+        }
+        if(219 && 219 != ''){
+            $(window).on('load.speedReport', function () {
+                // speedTimer[onload]
+                speedTimer.push(new Date().getTime());
+                var f1 = 7718, // china reading limited's ID
+                        f2 = 219, // site ID
+                        f3 = 37; // page ID
+                // chrome & IE9 Performance API
+                SpeedReport.reportPerformance({
+                    flag1: f1,
+                    flag2: f2,
+                    flag3IE: f3,
+                    flag3Chrome: f3,
+                    rate:0.1,
+                    url: '//isdspeed.qidian.com/cgi-bin/r.cgi'
+                });
+                // common speedTimer:['dom ready', 'onload']
+                var speedReport = SpeedReport.create({
+                    flag1: f1,
+                    flag2: f2,
+                    flag3: f3,
+                    start: speedZero,
+                    rate:0.1,
+                    url: '//isdspeed.qidian.com/cgi-bin/r.cgi'
+                });
+                // chrome & IE9 Performance API range 1~19, common speedTimer use 20+
+                for (var i = 0; i < speedTimer.length; i++) {
+                    speedReport.add(speedTimer[i], i + 20)
+                }
+                // http://isdspeed.qq.com/cgi-bin/r.cgi?flag1=7718&flag2=224&flag3=1&1=38&2=38&…
+                speedReport.send();
+            })
+        }
+    });
+    speedTimer.push(new Date().getTime());
+</script>
+<script>
+    var _mtac = {};
+    (function() {
+        var mta = document.createElement("script");
+        mta.src = "//pingjs.qq.com/h5/stats.js?v2.0.2";
+        mta.setAttribute("name", "MTAH5");
+        mta.setAttribute("sid", "500451537");
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(mta, s);
+    })();
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['QDAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://noah2-1252317822.file.myqcloud.com/npm/@noah-common/yep@0.0.46/dist/yep.js','yep');
+  yep('set', {
+    appid: 10038,
+    rate: 0.02
+  })
+</script>
+</html>
